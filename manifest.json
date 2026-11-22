@@ -365,7 +365,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.24/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8b8bdd3ea4d8e22cdb68169d762d8facb1b12e73/chunk-001.nq.gz",
+      "dep": "dep/8b8bdd3ea4d8e22cdb68169d762d8facb1b12e73.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

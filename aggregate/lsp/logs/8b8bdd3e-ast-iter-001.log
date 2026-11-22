@@ -1,0 +1,7 @@
+[2026-11-22T10:54:30Z] === AST ITERATION 1 START | repo=mongodb/bson-rust sha=8b8bdd3e ===
+[2026-11-22T10:54:30Z] [iter=1] PHASE START: ast repo=mongodb/bson-rust sha=8b8bdd3e
+[2026-11-22T10:54:30Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T10:56:15Z] [iter=1] AST chunks built count=1 triples=950789
+[2026-11-22T10:56:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8b8bdd3ea4d8e22cdb68169d762d8facb1b12e73/.complete
+[2026-11-22T10:56:15Z] [iter=1] PHASE END: ast elapsed_s=105 elapsed_min=1.8
+[2026-11-22T10:56:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

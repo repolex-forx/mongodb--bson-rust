@@ -124,6 +124,247 @@
       ],
       "ast": [
         "aggregate/ast/8b8bdd3ea4d8e22cdb68169d762d8facb1b12e73/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8b8bdd3ea4d8e22cdb68169d762d8facb1b12e73.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ahash",
+          "ecosystem": "CARGO",
+          "version": "0.8.12",
+          "githubOrg": "tkaitchuck",
+          "githubRepo": "ahash",
+          "githubCommit": "10c4f487e85c62bb12618ab5a4bb84b16802cdad",
+          "githubTag": "v0.8.12",
+          "githubUrl": "https://github.com/tkaitchuck/ahash",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "chrono",
+          "ecosystem": "CARGO",
+          "version": "0.4.15",
+          "githubOrg": "chronotope",
+          "githubRepo": "chrono",
+          "githubCommit": "7e0c0de6190edc25b994de95fdbced8079dc92f7",
+          "githubTag": "v0.4.15",
+          "githubUrl": "https://github.com/chronotope/chrono",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "jiff",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "jiff",
+          "githubUrl": "https://github.com/BurntSushi/jiff",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.9",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "indexmap",
+          "ecosystem": "CARGO",
+          "version": "2.1.0",
+          "githubOrg": "indexmap-rs",
+          "githubRepo": "indexmap",
+          "githubCommit": "ff497924ea8f5f949444f31fa3b33d50320f4e49",
+          "githubTag": "2.1.0",
+          "githubUrl": "https://github.com/indexmap-rs/indexmap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hex",
+          "ecosystem": "CARGO",
+          "version": "0.4.2",
+          "githubOrg": "KokaKiwi",
+          "githubRepo": "rust-hex",
+          "githubCommit": "be0c32f9c8938ca0359bbb0d1477e31b07cb3358",
+          "githubTag": "v0.4.2",
+          "githubUrl": "https://github.com/KokaKiwi/rust-hex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "base64",
+          "ecosystem": "CARGO",
+          "version": "0.22.1",
+          "githubOrg": "marshallpierce",
+          "githubRepo": "rust-base64",
+          "githubCommit": "e14400697453bcc85997119b874bc03d9601d0af",
+          "githubTag": "v0.22.1",
+          "githubUrl": "https://github.com/marshallpierce/rust-base64",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "uuid",
+          "ecosystem": "CARGO",
+          "version": "1.13.0",
+          "githubOrg": "uuid-rs",
+          "githubRepo": "uuid",
+          "githubCommit": "1cf1433f07b10bb0f77ae20b1880e3e81d857bc0",
+          "githubTag": "1.13.0",
+          "githubUrl": "https://github.com/uuid-rs/uuid",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_bytes",
+          "ecosystem": "CARGO",
+          "version": "0.11.5",
+          "githubOrg": "serde-rs",
+          "githubRepo": "bytes",
+          "githubCommit": "7f2e50869d87a50f45229d36740d9ad874ec9f4b",
+          "githubTag": "0.11.5",
+          "githubUrl": "https://github.com/serde-rs/bytes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_with",
+          "ecosystem": "CARGO",
+          "version": "3.1.0",
+          "githubOrg": "jonasbb",
+          "githubRepo": "serde_with",
+          "githubCommit": "20fae7c6634cca0092b02c438e7480bfe16b7311",
+          "githubTag": "v3.1.0",
+          "githubUrl": "https://github.com/jonasbb/serde_with/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "time",
+          "ecosystem": "CARGO",
+          "version": "0.3.9",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubCommit": "a957e12213caa794a78da728aad474e3e071f626",
+          "githubTag": "v0.3.9",
+          "githubUrl": "https://github.com/time-rs/time",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "thiserror",
+          "ecosystem": "CARGO",
+          "version": "2",
+          "githubOrg": "dtolnay",
+          "githubRepo": "thiserror",
+          "githubUrl": "https://github.com/dtolnay/thiserror",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "bitvec",
+          "ecosystem": "CARGO",
+          "version": "1.0.1",
+          "githubOrg": "bitvecto-rs",
+          "githubRepo": "bitvec",
+          "githubUrl": "https://github.com/bitvecto-rs/bitvec",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_path_to_error",
+          "ecosystem": "CARGO",
+          "version": "0.1.16",
+          "githubOrg": "dtolnay",
+          "githubRepo": "path-to-error",
+          "githubCommit": "e58a63177fd7b5683100575e48e008a4e2dbb11b",
+          "githubTag": "0.1.16",
+          "githubUrl": "https://github.com/dtolnay/path-to-error",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "simdutf8",
+          "ecosystem": "CARGO",
+          "version": "0.1.5",
+          "githubOrg": "rusticstuff",
+          "githubRepo": "simdutf8",
+          "githubCommit": "87ee8d9d20b849eae1974a82b248ee6fe7491bcc",
+          "githubTag": "v0.1.5",
+          "githubUrl": "https://github.com/rusticstuff/simdutf8",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "assert_matches",
+          "ecosystem": "CARGO",
+          "version": "1.2",
+          "githubOrg": "murarth",
+          "githubRepo": "assert_matches",
+          "githubUrl": "https://github.com/murarth/assert_matches",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.3.0",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "b75386da2ce7911655f879d1d4e1d89136c052af",
+          "githubTag": "0.3.0",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "pretty_assertions",
+          "ecosystem": "CARGO",
+          "version": "0.6.1",
+          "githubOrg": "rust-pretty-assertions",
+          "githubRepo": "rust-pretty-assertions",
+          "githubCommit": "92b77e752ae383ae321bb1f5551ac3f2fdcf1e07",
+          "githubTag": "v0.6.1",
+          "githubUrl": "https://github.com/rust-pretty-assertions/rust-pretty-assertions",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "proptest",
+          "ecosystem": "CARGO",
+          "version": "1.0.0",
+          "githubOrg": "proptest-rs",
+          "githubRepo": "proptest",
+          "githubCommit": "1ad340e7c2276d0afc4c0ac13040a1861d198895",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/proptest-rs/proptest",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rmp-serde",
+          "ecosystem": "CARGO",
+          "version": "0.15",
+          "githubOrg": "3Hren",
+          "githubRepo": "msgpack-rust",
+          "githubUrl": "https://github.com/3Hren/msgpack-rust",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "time-macros",
+          "ecosystem": "CARGO",
+          "version": "0.2.24",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubCommit": "b71597cfe8254d5fc7aa4379a69763565a0b7c2d",
+          "githubTag": "v0.2.24",
+          "githubUrl": "https://github.com/time-rs/time",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.24/src/lib.rs"
+        }
       ]
     }
   ],
